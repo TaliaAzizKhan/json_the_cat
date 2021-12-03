@@ -20,10 +20,3 @@ const fetchBreedDescription = (breedName, callback) => {
 };
 module.exports = { fetchBreedDescription };
 
-
-
-
-// const data = JSON.parse(body);
-// console.log(data);
-// console.log(typeof data);
-
